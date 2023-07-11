@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Stone App](https://apps.apple.com/br/app/conta-stone/id1438680035)
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **KMM**
 
 - 💬 Ask me about **Swift, RxSwift, MVVM, MVP, Quick/Nimble, Git**
 
